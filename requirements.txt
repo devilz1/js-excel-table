@@ -1,0 +1,12 @@
+Instrumentation:
+
+    1. Webpack (import / exports)
+        - babel
+        - SCSS
+        - Eslint
+        - 2 modes
+            - Dev
+                dev server, sourceMap, Eslint, not minified JS & CSS
+            - Prod
+                Minifid code
+    2. Git
