@@ -10,3 +10,9 @@ Instrumentation:
             - Prod
                 Minifid code
     2. Git
+
+Types of branches:
+
+_AF - adding functionality
+_PI - package installation
+_RC - refactoring code
